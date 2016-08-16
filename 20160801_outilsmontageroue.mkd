@@ -1,12 +1,72 @@
-Dans cet article, je vous délaille le matériel que vous aurez besoin pour réaliser le montage d'une paire de roue proprement. Par proprement, j'entends une paire de roues fiable, rigide et durable.
+Dans cet article, je vous délaille le matériel que vous aurez besoin pour réaliser le montage d'une paire de roue proprement. 
+Par proprement, j'entends une paire de roues fiable, rigide et durable.
+
 
 # Le pied de montage
 
+Le premier élément est d'avoir un pied de montage afin de dévoiler et retirer le saut de la roue.
+Ce pied doit être rigide et ce doit être sa qualité principale. 
+En effet, quand vous allez faire tourner la roue, rien ne doit bouger gar cela faussera l'évaluation du voile et du saut. 
+
+Les éléments que j'utilise :
+
+- [Parktools TS 2 (remplacé par le TS 2.2 et même TS 2.2p parce qu'il est maintenant peind en bleu (Whaouhhh)](http://www.parktool.com/product/powder-coated-professional-wheel-truing-stand-ts-2-2p?category=Wheel%20Truing%20Stands)
+- [le P&Klie](http://www.pklie.de/truing_stand.html)
+- [le DT Swiss](https://www.dtswiss.com/Accessories/Proline-Tools)
+
+*NB : tous mes pieds sont équipés de comparateurs au centième*
+
+**Lequel je préfère?**
+
+La réponse est sans hésitation le P&Klie qui est le plus ergonomique et qui me permet d'être à la fois précis et rapide.
+
+Dans tous les cas, les autres pieds permettent d'obtenir le même précision et d'avoir au final la même qualité de montage. 
+
 # Les clés à rayons
+
+A première vue, une clé à rayon est une clé à rayons.
+Un bout de feraille qui permet de tourner le l'écrou autour du filet du rayon!!!
+En pratique, une clé à rayon doit aussi permettre de transmettre un maximum de force développé par la main et le poignet.
+Pour cela, elle doit avoir de grandes oreilles!
+
+Elle doit également permettre de  conserver l'intégrité de l'écrou. C'est à dire ne pas le marquer (esthétique) et surtout ne pas le déformer (fonctionnel).
+
+Les clés que j'utilise :
+
+- [Les clés P&Klie car elles sont petites](http://www.pklie.de/spoke_wrench.html)
+- [La nouvelle clé DT Swiss - depuis 2014](https://www.dtswiss.com/Accessories/Proline-Tools)
+
+Pour être tout à fait complet, j'utilise maintenant la DT dans 99% des cas, car c'est la plus ergonomique et la P&Klie quand j'y suis obligé (roue de faible diamètre : 26", BMX, vélo porteur…).
 
 # Les outils de maintien
 
+La très grande majorité des rayons employés, pour des raisons mécaniques et aéro-dynamiques, sont des rayons plats. 
+Or comme la friction de entre l'ècrou et le filet du rayon ainsi que la friction entre l'écrou et la jaunte ne sont pas nulles, le rayon à tentance à vriller.
+C'est pour cette raison qu'il est nécéssaire de tenir le rayon lors de la phase de mise en tension de la roue. (NB : je trouve également que maintenir le rayon avec l'écrou lors de l'assemblage est également pratique)
+
+L'important concernant cet outil de maintien c'est qu'il soit adapté à la section du rayon utilisé lors du montage.
+On peut également signaler que l'outil doit être le plus en adéquation avec la forme de la clé. De ce point de vue les outils de maintien DT Swiss sont un «must»
+
+Poersonnelement j'ai beaucoup d'outils de maintien mais je n'utilise que le Dt Swiss.
+
+
 # La jauge de centrage
 
+Une roue sans voile sans saut c'est bien mais, une roue centrée latéralement c'est mieux!
+
+Je vous entends d'ici : «Oui, oui! ben j'ai un pied auto centreur!!!» C'est cool, si vous pensez que la précision de votre pied et bonne et qu'elle n'évoulue pas en mal tant mieux mais je pense que vous vous méprisez. En effet à part des pied comme le P&Klie, et encore, sont capables d'avoir un bon centrage, les autres sont une castatrophe. 
+Par exmple, mon premier Park Tools ne centre une roue au centimètre. Autant vous dire que si on voulait les donner comme cela au cycliste, cela poserait quelque problème.
+Pour en finir avec ces problèmes de centragges, on doit utiliser ce qu'on appelle les jauges de centrages. De nombreux contucteurs en propose mais seul le produit de [VAR](http://www.vartools.com/fr/comparateur-de-centrage-de-roue-var-p499.php) a pu me satisfaire, Je le trouve ergonimique, solide et proposant une mesure répétable.
+
+Son seul défaut est qu'il nécéssite de sortir la roue de pied montage pour faire la mesure, donc si vous utiliser des adaptateurs pour moyeux à axe transversant, il faudrait démonter l'adaptateur à chaque mesure du centrage : un poil chiant… 
+
 # Le tensiomètre
+
+J'ai entendu très souvent des prodiges du montage, en général c'est des vieux rabougris qui ne montent des roues qu'occasionnellement et dont les produits ont endance à assez mal vieillir, qu'ils sont capable de connaitre la tension quasi exact soit en touchant le rayon soit en frappant le rayon comme une corde guitare…
+Ouais ben je dois être mauvais car après pus d'un millier de roues je n'en suis toujours pas capable!
+En effet, pour moi, comme pour de nombreux monteurs sérieux, le tensiomètre est un outil indispensable pour pouvoir finaliserr un montage et lui apporter robutesse et performance.
+
+Les marché des tensiomètre est assez peu fourni, je vais vous faire une analyse des 3 référence les plus connus :
+
+Attention un tensiomètre est un appareil de mesure et comme tout appareil de mesure et une vérification et un étalonnage s'impose de temps à autres.
 
