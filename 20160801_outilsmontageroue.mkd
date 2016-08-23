@@ -21,9 +21,9 @@ Les éléments que j'utilise :
 La réponse est sans hésitation le P&Klie qui est le plus ergonomique et qui me permet d'être à la fois précis et rapide.
 
 Dans tous les cas, les autres pieds permettent d'obtenir le même précision et d'avoir au final la même qualité de montage. 
-
+i
 # Les clés à rayons
-
+i
 A première vue, une clé à rayon est une clé à rayons.
 Un bout de feraille qui permet de tourner le l'écrou autour du filet du rayon!!!
 En pratique, une clé à rayon doit aussi permettre de transmettre un maximum de force développé par la main et le poignet.
@@ -49,7 +49,7 @@ On peut également signaler que l'outil doit être le plus en adéquation avec l
 
 Poersonnelement j'ai beaucoup d'outils de maintien mais je n'utilise que le Dt Swiss.
 
-
+i
 # La jauge de centrage
 
 Une roue sans voile sans saut c'est bien mais, une roue centrée latéralement c'est mieux!
@@ -64,11 +64,39 @@ Son seul défaut est qu'il nécéssite de sortir la roue de pied montage pour fa
 
 J'ai entendu très souvent des prodiges du montage, en général c'est des vieux rabougris qui ne montent des roues qu'occasionnellement et dont les produits ont endance à assez mal vieillir, qu'ils sont capable de connaitre la tension quasi exact soit en touchant le rayon soit en frappant le rayon comme une corde guitare…
 Ouais ben je dois être mauvais car après pus d'un millier de roues je n'en suis toujours pas capable!
-En effet, pour moi, comme pour de nombreux monteurs sérieux, le tensiomètre est un outil indispensable pour pouvoir finaliserr un montage et lui apporter robutesse et performance.
+En effet, pour moi, comme pour de nombreux monteurs sérieux, le tensiomètre est un outil indispensable pour pouvoir finaliser un montage et lui apporter robutesse et performance.
 
 Les marché des tensiomètre est assez peu fourni, je vais vous faire une analyse des 3 référence les plus connus :
 
+- [DT Swiss](https://www.dtswiss.com/Resources/Support/PROLINE/DT-Swiss-Proline-Tensio-User-Manual-en)
+- [FSA ou Wheels Fanatik](http://www.wheelfanatyk.com/store/digital-tension-gauge/)
+- [Park Tool](http://www.parktool.com/product/spoke-tension-meter-TM-1)
 
-test 
+
+
+Je vais être très clair, le DT SWISS n'est pas un outil qui peut être utilisé seul dans votre panoplie de moteur. Je m'explique! 
+Le tensiomètre DT SWISS, ne permet de mesurer de faible de tension sur les rayons plats en dessous de 80-90 kgf.
+Au delà de ses valeurs, il est un outil tout à fait fiable. 
+Cependant, pour mesurer des valeurs plus faible, il faudra utiliser un park tool, par exemple.
+En effet, le Park Tool étant un instrument très peu fiable en termes de justesse de la valeur, il reste un appareil qui permet d'avoir un justesse de mesure importante.
+
+Par conséquent, en pratique, on utilise le Dt pour mesurer la valeur du coté roue libre (RL), généralement 120 kgf, de manière à ne pas  dépasser le maximum tolérable de la jantes.
+Enfin, on équilibre les tensions du coté ORL avec le tensio Park. Peut importte à la valeur absolue obtenu avec le Park, on l'utilise uniquement en lecture relative pour garantir un équilibrage des tensions à +- 5%, ce qui en pratique correspond à une graduation.
+
+Le dernier tensiomètre intéressant du marché est le FSA dont la production a été stoppé mais qu'on retrouve sous de design de Wheels Fanatik. Ce tensio est pour le meilleur car, il est fiable et fonctionne sur une très grande plage de tension.
+
 Attention un tensiomètre est un appareil de mesure et comme tout appareil de mesure et une vérification et un étalonnage s'impose de temps à autres.
+
+Pour finir avec les tensiomètre, je vous propose de prendre connaissance de deux tensiomètres qui ne sont pas encore commercialisé mais qui sont *a priori* fort intéressant.
+
+[Le tensiomètre de P&Klie](http://www.pklie.de/tensionmeter.html)
+[Le tensiomètre d'un youtubeur (Russe??)](https://www.youtube.com/watch?v=3UP5P3MT970)
+
+# Je peux donc attaquer le montage ?
+
+J'espère que les éléments que je vous ai donné plus haut vont permettre de débuter vos premier montage. 
+Avant de passer à l'action, je propose de prendre connaissance d'éléments permettant de calculer vos rayons et de lacer votre roue.
+
+
+
 
